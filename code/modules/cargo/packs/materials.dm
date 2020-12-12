@@ -72,7 +72,7 @@
 /datum/supply_pack/materials/rawlumber
 	name = "50 Towercap Logs"
 	desc = "Raw logs from towercaps. Contains fifty logs."
-	cost = 1000
+	cost = 2650
 	contains = list(/obj/item/grown/log)
 	crate_name = "lumber crate"
 
